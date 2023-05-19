@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg434608"
+   sodipodi:docname="multi-scale-inference.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview434610"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.9018984"
+     inkscape:cx="354.25276"
+     inkscape:cy="275.52993"
+     inkscape:window-width="1512"
+     inkscape:window-height="821"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs434605">
+    <rect
+       x="355.15331"
+       y="565.36867"
+       width="24.340726"
+       height="97.362902"
+       id="rect436619" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:8.6815px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.651113"
+       x="64.109612"
+       y="18.285667"
+       id="text435240"><tspan
+         sodipodi:role="line"
+         id="tspan435238"
+         style="stroke-width:0.651113"
+         x="64.109612"
+         y="18.285667">Multi-Scale Inference</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.126456"
+       id="rect435607"
+       width="45.730949"
+       height="19.025866"
+       x="78.76503"
+       y="29.541605"
+       ry="7.6983271" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.126456"
+       id="rect435607-3"
+       width="45.730949"
+       height="19.025866"
+       x="24.08857"
+       y="63.232773"
+       ry="7.6983271" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.126456"
+       id="rect435607-3-8"
+       width="45.730949"
+       height="19.025866"
+       x="80.521606"
+       y="63.453213"
+       ry="7.6983271" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.126456"
+       id="rect435607-3-8-7"
+       width="45.730949"
+       height="19.025866"
+       x="140.70215"
+       y="64.11454"
+       ry="7.6983271" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.39915px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.479936"
+       x="30.198988"
+       y="74.95739"
+       id="text435677"><tspan
+         sodipodi:role="line"
+         id="tspan435675"
+         style="stroke-width:0.479936"
+         x="30.198988"
+         y="74.95739">Fixed Point</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.39915px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.479936"
+       x="86.83831"
+       y="75.132683"
+       id="text435677-1"><tspan
+         sodipodi:role="line"
+         id="tspan435675-7"
+         style="stroke-width:0.479936"
+         x="86.83831"
+         y="75.132683">Limit Cycle</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0861535"
+       id="rect435607-3-8-79"
+       width="21.181587"
+       height="19.066168"
+       x="81.620453"
+       y="104.04774"
+       ry="7.7146344" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.39915px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.479936"
+       x="86.786362"
+       y="115.45464"
+       id="text435677-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan435675-7-6"
+         style="stroke-width:0.479936"
+         x="86.786362"
+         y="115.45464">vdP</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0861535"
+       id="rect435607-3-8-79-5"
+       width="21.181587"
+       height="19.066168"
+       x="105.91738"
+       y="104.04774"
+       ry="7.7146344" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.39915px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.479936"
+       x="109.61962"
+       y="115.45465"
+       id="text435677-1-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan435675-7-6-5"
+         style="stroke-width:0.479936"
+         x="109.61962"
+         y="115.45465">Hopf</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0861535"
+       id="rect435607-3-8-79-4"
+       width="21.181587"
+       height="19.066168"
+       x="16.487112"
+       y="103.755"
+       ry="7.7146344" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.39915px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.479936"
+       x="21.653021"
+       y="115.16192"
+       id="text435677-1-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan435675-7-6-4"
+         style="stroke-width:0.479936"
+         x="21.653021"
+         y="115.16192">vdP</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0861535"
+       id="rect435607-3-8-79-5-1"
+       width="21.181587"
+       height="19.066168"
+       x="40.784042"
+       y="103.755"
+       ry="7.7146344" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.39915px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.479936"
+       x="44.486282"
+       y="115.16193"
+       id="text435677-1-2-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan435675-7-6-5-1"
+         style="stroke-width:0.479936"
+         x="44.486282"
+         y="115.16193">Hopf</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0861535"
+       id="rect435607-3-8-79-5-1-0"
+       width="21.181587"
+       height="19.066168"
+       x="16.340742"
+       y="124.53913"
+       ry="7.7146344" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.10181px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.307636"
+       x="19.919632"
+       y="135.46355"
+       id="text435677-1-2-8-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan435675-7-6-5-1-5"
+         style="stroke-width:0.307636"
+         x="19.919632"
+         y="135.46355">Bistable</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.0861535"
+       id="rect435607-3-8-79-5-1-0-1"
+       width="21.181587"
+       height="19.066168"
+       x="40.34494"
+       y="124.83189"
+       ry="7.7146344" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.10181px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.307636"
+       x="43.923832"
+       y="135.75629"
+       id="text435677-1-2-8-6-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan435675-7-6-5-1-5-3"
+         style="stroke-width:0.307636"
+         x="43.923832"
+         y="135.75629">Hooke's</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.80255px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.435192"
+       x="150.62018"
+       y="71.910614"
+       id="text435708"><tspan
+         sodipodi:role="line"
+         id="tspan435706"
+         style="stroke-width:0.435192"
+         x="150.62018"
+         y="71.910614">Bistable </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.435192"
+         x="150.62018"
+         y="79.163803"
+         id="tspan435710">Switching</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.80255px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.435192"
+       x="146.86652"
+       y="116.37775"
+       id="text435708-7"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.435192"
+         x="146.86652"
+         y="116.37775"
+         id="tspan435710-4">Bistable </tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.230566"
+       id="rect435712"
+       width="24.628902"
+       height="18.822624"
+       x="144.27409"
+       y="104.16952"
+       ry="7.7343392" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text436617"
+       style="line-height:1.25;font-family:Helvetica;font-size:13.33333333px;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect436619)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+       x="67.180054"
+       y="60.139347"
+       id="text441739"><tspan
+         sodipodi:role="line"
+         id="tspan441737"
+         style="stroke-width:0.264583"
+         x="67.180054"
+         y="60.139347">Repertoire of canonical dynamical behaviours</tspan></text>
+  </g>
+</svg>
